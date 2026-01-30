@@ -22,7 +22,10 @@
 
 [知乎主頁](https://www.zhihu.com/people/RealWuShuang/)
 ### 截圖
-![A](a.png)
-![A](b.png)
-![A](c.png)
-![A](d.png)
+![A](a.PNG)
+
+![A](b.PNG)
+
+![A](c.PNG)
+
+![A](d.PNG)
